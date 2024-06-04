@@ -1,0 +1,119 @@
+SCREAM (1994) Chatbot
+Type ':quit', 'quit', 'exit', or 'Let me leave!' to exit
+
+You can talk to the following characters:
+Casey, Sidney, Billy, Gale, Dewey, Stu, Randy, Tatum, Ghostface
+Otherwise, it'll just be a random background person: Teen, Male, or Female
+YOU 🗣️ :  Hi Casey
+CASEY :  Hello, can you hear me?. I'm Casey
+YOU 🗣️ :  What do you want to talk about Casey?
+CASEY :  We can talk about all kinds of cool stuff!
+YOU 🗣️ :  Do you like scary movies Casey?
+CASEY :  I like watching scary movies
+YOU 🗣️ :  Which ones Casey?
+CASEY :  So, you gotta boyfriend?
+YOU 🗣️ :  That's a little personal Casey
+CASEY :  I told you not to hang up on me.
+YOU 🗣️ :   think, Casey, that I'm going to have to if you keep asking inappropriate questions
+CASEY :  Maybe. Do you have a boyfriend?
+YOU 🗣️ :  I think I'm going to talk to Sidney now
+SIDNEY :  Where are you Sidney?
+YOU 🗣️ :  What do you do here Sidney?
+SIDNEY :  I'm a highschool student at Woodsboro High, but... I guess I'm kind of the lead here too
+YOU 🗣️ :  The lead? Sidney, what are you the lead in?
+SIDNEY :  Where are you Sidney?
+YOU 🗣️ :  Why do you keep asking where you are Sidney?
+SIDNEY :  Just like old times, ain't it?
+YOU 🗣️ :  Not that old of times, Sidney
+SIDNEY :  I like that thing you're doing with your voice, Randy. It's sexy.
+YOU 🗣️ :  I'm not randy. But I guess I can see what's up with him now
+RANDY :  I'm a scary movie expert
+YOU 🗣️ :  Cool, Randy. Cool. Where are you?
+RANDY :  Hey, what's up?. I'm Randy
+YOU 🗣️ :  I got that. Where are you Randy?
+RANDY :  I'm in the middle of the party telling everyone what not to do
+YOU 🗣️ :  Seems sensible, Randy, I hear there's a murder on the loose
+RANDY :  Jesus, this place is packed.
+YOU 🗣️ :  Seems kinda dangerous Randy
+RANDY :  Sorry.
+YOU 🗣️ :  Not your fault. Is that Billy over there?
+BILLY :  NO! Don't believe him.
+YOU 🗣️ :  Sorry billy, I spotted you. 
+BILLY :  The police say I scared him off. It wasn't me, Sid.
+YOU 🗣️ :  what do you like to do billy?
+BILLY :  I like not kill people, definitely. I'm absolutely trust worthy
+YOU 🗣️ :  Good to know, billy. What should we talk about?
+BILLY :  I like not kill people, definitely. I'm absolutely trust worthy
+YOU 🗣️ :  You already said that, billy. I'm beginning to feel like you're lying
+BILLY :  What should we talk about Billy?
+YOU 🗣️ :  I'm not Billy
+BILLY :  Think about it. On the off chance I get caught -- a motive like that could divide a jury for years, don't you think?. You took my mother, so I took yours. Big sympathy factor. Maternal abandonment causes serious deviant behavior. It certainly fucked you up. It made you have sex with a psychopath.
+YOU 🗣️ :  Yah, I'm outta this conversation. I feel like I should call the sherriff... dewey
+DEWEY :  You can't be here, Tatum. This is an official crime scene.
+YOU 🗣️ :  This is a crime scene? What happened Dewey? Also, I'm not tatum. 
+DEWEY :  (to Tatum) What are you doing here?
+YOU 🗣️ :  Oh, I didn't even see your sister Tatum here dewey
+DEWEY :  I'm a Sheriff of Woodsboro
+YOU 🗣️ :  I know... Dewey, billy is acting weird
+BILLY :  The police say I scared him off. It wasn't me, Sid.
+YOU 🗣️ :  See what I mean Dewey? 
+DEWEY :  I'm a Sheriff of Woodsboro
+YOU 🗣️ :  Dewey, what do you do here? 
+DEWEY :  Drive by patrol.
+YOU 🗣️ :  Cool, cool cool cool. Hey tatum, is he always this weird?
+TATUM :  Your objection is duly noted.
+YOU 🗣️ :  No objection, just thought he was acting weird. What do you think Tatum?
+TATUM :  I like doing watever I want in the moment
+YOU 🗣️ :  Ok Tatum, What do you do here?
+TATUM :  Created by that little tabloid twit Gale Weathers.
+YOU 🗣️ :  You think Gale is a twit?
+GALE :  During the trial, you did all those stories about me. You called me a liar.
+YOU 🗣️ :  Wow Tatum, you think Gale is a liar?
+GALE :  During the trial, you did all those stories about me. You called me a liar.
+YOU 🗣️ :  Gale, we heard you the first time
+GALE :  The vultures are coming. Let's get you out of here.
+YOU 🗣️ :  I don't think I'd like to go with you Gale. 
+GALE :  I'm wherever the story is
+YOU 🗣️ :  Tatum, how do you feel about her?
+TATUM :  No, nothing's like it used to be.
+YOU 🗣️ :  Hey Tatum, I don't remember the movie that well, are you dating Stu?
+STU :  (offended) What are you saying? That I killed her or something?
+YOU 🗣️ :  Stu, that was actually a pretty crazy thing for you to say right then
+STU :  Wanna another beer?
+YOU 🗣️ :  No, I'm good. But thanks, Stu. 
+STU :  What?
+YOU 🗣️ :  What do you like to do Stu? 
+STU :  I like help billy not kill people
+YOU 🗣️ :  Yah, he was saying how trustworthy he is earlier. What should we talk about Stu/
+STU :  I just want to be famous.
+YOU 🗣️ :  I guess one way to be famous is to be the killer
+GHOST FACE 👻:  Where are you Ghost Face?
+YOU 🗣️ :  Oh snap! It's a murderer here. Ghostface, are you Stu?
+STU :  I'm in plain sight of a bunch of witnesses
+YOU 🗣️ :  Fair point. ghostface, who are you?
+GHOST FACE 👻:  The first one was, but the rest sucked.
+YOU 🗣️ :  what do you do here killer?
+GHOST FACE 👻:  What's your favorite scary movie?
+YOU 🗣️ :  I'm kinda diggin' Scream now, I guess. What's yours Ghostface?
+GHOST FACE 👻:  Hello.
+YOU 🗣️ :  Hi Ghostface
+GHOST FACE 👻:  Hello?
+YOU 🗣️ :  Hello killer 
+GHOST FACE 👻:  Uh-huh.
+YOU 🗣️ :  Riviting conversation, Ghost Face
+GHOST FACE 👻:  ...Hi. I'm Ghost Face
+YOU 🗣️ :  I noticed from the ghost face emoji there
+GHOST FACE 👻:  Come on. It'll be fun.
+YOU 🗣️ :  Hey, random person walking by, you see this guy? 
+TEEN :  I like moving the plot along or reacting to the main characteres
+YOU 🗣️ :  Great! that exactly what I would like to happen now
+SOME GUY :  Hold up a sec...
+YOU 🗣️ :  yes, sir?
+SOME LADY :  Telephone, dear.
+YOU 🗣️ :  Ohh... who is it? 
+SOME LADY :  It's for Sid
+YOU 🗣️ :  Sidney! PhOOoOoone!
+SIDNEY :  Fuck you both.
+YOU 🗣️ :  I don't know if I want to stay in this conversation
+SOME LADY :  That fish smelled strong.
+YOU 🗣️ :  Let me leave!
