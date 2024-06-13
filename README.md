@@ -1,4 +1,5 @@
-# This was a project idea to Build and Train a chatbot on the 1996 Wes Craven film Scream. 
+# Summary
+This project idea is to build and train several chatbots based on the characters from 1996 Wes Craven film Scream. 
 
 ### Files
 | name  |file   |
